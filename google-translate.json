@@ -1,0 +1,91 @@
+{
+"af":"af", // Afrikaans
+"sq":"sq", // Albanian
+"ar":"ar", // Arabic
+"hy":"hy", // Armenian
+"eu":"eu", // Basque
+"be":"be", // Belarusian
+"bn":"bn", // Bengali
+"bs":"bs", // Bosnian
+"bs_Cyrl":"bs", // Bosnian (Cyrillic)
+"bg":"bg", // Bulgarian
+"ca":"ca", // Catalan
+"zh":"zh-TW", // Chinese, fall back to trad. Because i like it
+"zh_Hans":"zh-CN", // Chinese (Simplified)
+"zh_Hant":"zh-TW", // Chinese (Traditional)
+"hr":"hr", // Croatian
+"cs":"cs", // Czech
+"da":"da", // Danish
+"nl":"nl", // Dutch
+"en":"en", // English
+"eo":"eo", // Esperanto
+"et":"et", // Estonian
+"fil":"tl", // Filipino
+"fi":"fi", // Finnish
+"fr":"fr", // French
+"gl":"gl", // Galician
+"ka":"ka", // Georgian
+"de":"de", // German
+"el":"el", // Greek
+"gu":"gu", // Gujarati
+"ha":"ha", // Hausa
+"he":"iw", // Hebrew
+"hi":"hi", // Hindi
+"hu":"hu", // Hungarian
+"is":"is", // Icelandic
+"ig":"ig", // Igbo
+"id":"id", // Indonesian
+"ga":"ga", // Irish
+"it":"it", // Italian
+"ja":"ja", // Japanese
+"kn":"kn", // Kannada
+"kk":"kk", // Kazakh
+"km":"km", // Khmer
+"ko":"ko", // Korean
+"lo":"lo", // Lao
+"lv":"lv", // Latvian
+"lt":"lt", // Lithuanian
+"mk":"mk", // Macedonian
+"mg":"mg", // Malagasy
+"ms":"ms", // Malay
+"ms_Arab":"ms", // Malay (Arabic)
+"ml":"ml", // Malayalam
+"mt":"mt", // Maltese
+"mr":"mr", // Marathi
+"mn":"mn", // Mongolian
+"ne":"ne", // Nepali
+"nb":"no", // Norwegian Bokmål
+"nn":"no", // Norwegian Nynorsk
+"fa":"fa", // Persian
+"pl":"pl", // Polish
+"pt":"pt", // Portuguese
+"pa":"ma", // Punjabi
+"pa_Arab":"ma", // Punjabi (Arabic)
+"ro":"ro", // Romanian
+"ru":"ru", // Russian
+"sr":"sr", // Serbian
+"sr_Latn":"sr", // Serbian (Latin)
+"si":"si", // Sinhala
+"sk":"sk", // Slovak
+"sl":"sl", // Slovenian
+"so":"so", // Somali
+"es":"es", // Spanish
+"sw":"sw", // Swahili
+"sv":"sv", // Swedish
+"gsw":"de", // Swiss German
+"tg":"tg", // Tajik
+"ta":"ta", // Tamil
+"te":"te", // Telugu
+"th":"th", // Thai
+"tr":"tr", // Turkish
+"uk":"uk", // Ukrainian
+"ur":"ur", // Urdu
+"uz":"uz", // Uzbek
+"uz_Arab":"uz", // Uzbek (Arabic)
+"uz_Latn":"uz", // Uzbek (Latin)
+"vi":"vi", // Vietnamese
+"cy":"cy", // Welsh
+"yi":"yi", // Yiddish
+"yo":"yo", // Yoruba
+"zu":"zu", // Zulu
+}
